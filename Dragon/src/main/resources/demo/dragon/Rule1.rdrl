@@ -1,0 +1,9 @@
+package demo.dragon;
+
+import java.lang.Number;
+
+rule "Rule1"
+	dialect "mvel"
+	when
+	then
+end
